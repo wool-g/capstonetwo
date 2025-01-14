@@ -10,3 +10,5 @@ Completion of this endevor helped to strengthen my skills working with python in
 ## Setup
 
 Follow the linked anaconda docs
+
+![image](https://github.com/user-attachments/assets/19176f30-be70-483f-be03-ba77d7f49323)
