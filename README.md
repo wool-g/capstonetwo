@@ -11,4 +11,14 @@ Completion of this endevor helped to strengthen my skills working with python in
 
 Follow the linked anaconda docs
 
+
+## header list
+technologies used - pandas, python, jupyter etc
+description - hypothesis stuff
+setup - how to run on another cpu
+### what i learned - lessons from data, How i got better with technologies used
+possible next steps - if i were to spend more time etc
+
+
+
 ![image](https://github.com/user-attachments/assets/19176f30-be70-483f-be03-ba77d7f49323)
