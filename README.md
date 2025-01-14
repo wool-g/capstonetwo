@@ -12,12 +12,20 @@ Completion of this endevor helped to strengthen my skills working with python in
 Follow the linked anaconda docs
 
 
-## header list
-technologies used - pandas, python, jupyter etc
-description - hypothesis stuff
-setup - how to run on another cpu
-### what i learned - lessons from data, How i got better with technologies used
-possible next steps - if i were to spend more time etc
+## Purpose
+Analyze the monthly ridership totals of the MTA subway compared to delays, on time arrivals, and felony counts.
+
+## Description
+Project focused on MTA open-data sets since 2020. Datasets included daily ridership, monthly delays and on-time performance per train line, causes of train delays, and felonies (categorized) per train line. To begin analysis, datasets had to be standardized and aggregated, cleaned for relevant information, and concatenated. Project required exploratory data analysis, determining which factors had the most correlation with ridership, and drilling down into specific areas of concern to determine key areas of focussed improvement.
+
+## Skills
+Data cleaning and analysis, data standardization, correlation matrices, hypothesis testing, data visualization, pivots.
+
+## Technology
+Jupyter Notebook, Python, Numpy, Pandas, Matplotlib, Seaborn.
+
+## Results
+By using Python functionality, delays and ridership were identified to have the strongest correlation with one another, allowing future focus to be centered around improving system performance to reinstill customer faith in the MTA.
 
 
 
